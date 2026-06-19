@@ -1,4 +1,5 @@
 Hey there, i'm Sonykuti 👋👨‍💻
+
 Welcome to my coding corner, where frontend mastery meets the thrilling adventure of backend exploration!
 
 I'm Olamide Ademola, and I thrive on crafting polished user experiences with HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React Js, and yes, Firebase too. Frontend is my playground, where I excel in bringing designs to life and creating seamless interactions that leave users in awe.
